@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(40, 40, 41);
+    color: silver;  
+    font-family: sans-serif;
+}
+
+h1{
+    text-decoration:overline;
+}
+img{
+    border-radius: 8px; 
+    transition: 1s; 
+}
+
+img:hover{
+cursor: pointer; 
+}
+
+
+p{
+    text-align: justify; 
+}
+
+h1, h2, p, button{
+    margin: 2%; 
+}
